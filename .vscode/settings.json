@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "string": "c",
+        "player.h": "c",
+        "array": "c",
+        "deque": "c",
+        "vector": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "tree.h": "c",
+        "unordered_map": "c"
+    },
+    "search.searchEditor.reusePriorSearchConfiguration": true
+}
